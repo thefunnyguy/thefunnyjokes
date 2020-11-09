@@ -22,9 +22,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `the really funny joke` text
-
-[Link](url) and ![Image](/thefunnydog.jpg)
 ```
+[Link](url) and ![Image](/thefunnydog.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
