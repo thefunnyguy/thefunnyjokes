@@ -12,7 +12,7 @@ jobs:
 
     runs-on:ubuntu-latest
 
-    steps:
+    steps upload funny monkey.jpg 
     - uses: 
     - name: 
     monkey.html
