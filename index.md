@@ -1,10 +1,4 @@
 ## the funniest jokes of all time
-go brrr  
-ハハ means haha in japanese 
-jon arbuckle
-Garfield 
-whos joe?
-### JOE MAMA
 
 
 
@@ -12,7 +6,20 @@ whos joe?
 ## Header funny joke
 ### Header unfunny joke
 
-- Bulleted
+- Bulleted ハハ means haha in japanese
+
+
+jon arbuckle
+
+
+Garfield
+
+
+whos joe?
+
+
+### JOE MAMA
+
 - List
 
 1. Numbered
