@@ -25,7 +25,7 @@ whos joe?
 1. Numbered
 2. List
 
-
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 https://media.npr.org/assets/img/2014/08/07/monkey-selfie_custom-7117031c832fc3607ee5b26b9d5b03d10a1deaca-s300-c85.jpg
 
