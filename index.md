@@ -36,4 +36,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-![funny monkey] (https://i.pinimg.com/originals/de/db/1b/dedb1bbd3da12c6bb338ff30edf32adc.jpg)
+![funny monkey 2.0](<img src="https://i.pinimg.com/originals/de/db/1b/dedb1bbd3da12c6bb338ff30edf32adc.jpg" alt="22 Funniest Monkey Face Pictures That Will Make You Laugh | Monkeys funny,  Monkey pictures, Funny monkey pictures"/>)
