@@ -18,7 +18,7 @@ Garfield               ![garfield](https://upload.wikimedia.org/wikipedia/en/thu
 whos joe? 
 
 
-# JOE MAMA         ![joe](https://pbs.twimg.com/media/EEziWZtWwAIfL-V.jpg)
+ JOE MAMA         ![joe](https://pbs.twimg.com/media/EEziWZtWwAIfL-V.jpg)
 
 - List
 
