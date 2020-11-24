@@ -9,10 +9,10 @@
 - Bulleted ハハ means haha in japanese
 
 
-jon arbuckle
+jon arbuckle           !.[jon arbuckle].(https://upload.wikimedia.org/wikipedia/en/6/63/Jon_arbuckle.svg)
 
 
-Garfield
+Garfield               ![garfield](https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/250px-Garfield_the_Cat.svg.png)
 
 
 whos joe?
