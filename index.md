@@ -2,9 +2,9 @@
 
 
 
-# Header funny 
-## Header funny joke
-### Header unfunny joke
+#  funny 
+##  funny joke
+###  unfunny joke
 
 - Bulleted ハハ means haha in japanese
 
@@ -15,10 +15,10 @@ jon arbuckle           ![jon arbuckle](https://upload.wikimedia.org/wikipedia/en
 Garfield               ![garfield](https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/250px-Garfield_the_Cat.svg.png)
 
 
-whos joe?
+whos joe? 
 
 
-### JOE MAMA
+### JOE MAMA         ![joe](https://pbs.twimg.com/media/EEziWZtWwAIfL-V.jpg)
 
 - List
 
