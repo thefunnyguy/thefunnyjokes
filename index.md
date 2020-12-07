@@ -6,7 +6,7 @@
 ##  funny joke
 ###  unfunny joke
 
-- Bulleted ハハ means haha in japanese
+-  ハハ means haha in japanese
 
 
 jon arbuckle           ![jon arbuckle](https://upload.wikimedia.org/wikipedia/en/6/63/Jon_arbuckle.svg)
@@ -20,10 +20,10 @@ whos joe?
 
  ##### JOE MAMA         
 
-- List
+- 
 
-1. Numbered
-2. List
+1. top 10 numbers 2 5 6 7  10 9 3 8 7  
+2. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
